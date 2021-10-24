@@ -14,8 +14,8 @@
 <a href="https://codesandbox.com/aumutceylan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="aumutceylan" height="30" width="40" /></a>
 <a href="https://fb.com/aumutceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aumutceylan" height="30" width="40" /></a>
 <a href="https://instagram.com/aumutceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aumutceylan" height="30" width="40" /></a>
-<a href="https://medium.com/aumutceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aumutceylan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aumutceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aumutceylan" height="30" width="40" /></a>
+<a href="https://medium.com/@aumutceylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aumutceylan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6aoOIL6WpuAdTEwEuwoX5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aumutceylan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
